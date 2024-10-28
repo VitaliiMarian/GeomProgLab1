@@ -1,0 +1,7 @@
+C:\Users\lllll\OneDrive\Документы\ООП\0001\bin\Debug\0001.exe.config
+C:\Users\lllll\OneDrive\Документы\ООП\0001\bin\Debug\0001.exe
+C:\Users\lllll\OneDrive\Документы\ООП\0001\bin\Debug\0001.pdb
+C:\Users\lllll\OneDrive\Документы\ООП\0001\obj\Debug\0001.csproj.AssemblyReference.cache
+C:\Users\lllll\OneDrive\Документы\ООП\0001\obj\Debug\0001.csproj.CoreCompileInputs.cache
+C:\Users\lllll\OneDrive\Документы\ООП\0001\obj\Debug\0001.exe
+C:\Users\lllll\OneDrive\Документы\ООП\0001\obj\Debug\0001.pdb
